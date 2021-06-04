@@ -3,7 +3,6 @@ body {
 }
 
 
-
 .center {
     text-align: center;
     border: 3px solid green;
@@ -36,4 +35,9 @@ body {
     bottom: 20px;
     text-align: center;
     border: 3px solid green;
+}
+
+.specialBackground {
+    background-image: url(https://preview.redd.it/go1ue38p6i361.jpg?auto=webp&s=c4355d495abbdd5b45326b0bc72f361421ea6e58);
+
 }
